@@ -18,14 +18,13 @@ This project consists of : -
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 
 ## Results
-Factors affecting the satisfaction are: -
-1) Business class customers are more satisfied.
-2) Business travel customers are more satisfied.
+1) Business class customers tend to be more satisfied.
+2) Business travel customers tend to be more satisfied.
 3) Customer satisfaction doesn't depend on Gender.
 4) Customers provided with services with 4-5 grade tend to be more satisfied.
-5) Cleanliness has high influence.
+5) Cleanliness has high influence on satisfaction.
 
 ## Prescription
 1) All the provided services should be of 4-5 grade.
-2) Concentrate on Cleanliness and Online boarding.
+2) Concentrate on Cleanliness.
 2) Concentrate on Eco class and personal travel as they are most unsatisfied customer.
